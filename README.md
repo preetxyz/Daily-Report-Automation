@@ -1,1 +1,3 @@
-# Daily-Report-Automation
+Automated Excel Report Generator using Python | Styling, Merging & Analysis
+
+This project is a demo version of an automated Excel reporting tool developed using Python, Pandas, and OpenPyXL. It showcases how multiple datasets—such as sales and operations data—can be merged, processed, and formatted into a daily professional Excel report. The styling includes color-coded columns, header formatting, and number formatting for better readability. While the logic is inspired by real-world reporting tasks I handled in a professional setting, all the data used here is fictional and created solely for demonstration purposes. This project highlights my ability to streamline manual reporting processes through automation.
